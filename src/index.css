@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-color: #61dee3; /* Light gray background */
+
+}
+
+/* Optional: Add some spacing to main container */
+#root {
+  padding: 20px;
+}
